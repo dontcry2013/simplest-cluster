@@ -1,0 +1,23 @@
+{
+  "name": "simplest_cluster",
+  "version": "1.0.0",
+  "description": "The simplest cluster, no dependency needed, the quickest hands-on utility.",
+  "main": "mycluster.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dontcry2013/utility.git"
+  },
+  "keywords": [
+    "node",
+    "cluster"
+  ],
+  "author": "Zac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dontcry2013/utility/issues"
+  },
+  "homepage": "https://github.com/dontcry2013/utility#readme"
+}
