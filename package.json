@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/dontcry2013/utility/issues"
   },
-  "homepage": "https://github.com/dontcry2013/utility#readme"
+  "homepage": "https://github.com/dontcry2013/utility#readme",
+  "devDependencies": {
+    "colors": "^1.2.1"
+  }
 }

@@ -21,7 +21,7 @@ MyCluster.prototype.start = function(){
     var _this = this;
     
     cluster.setupMaster({
-        exec : path.join(__dirname, _this.script),
+        exec : _this.script,
         args : ["--environment", "dev"]
     });
 
